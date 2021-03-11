@@ -23,4 +23,3 @@ jobs:
         id: destroy
         run: terraform destroy -auto-approve
         continue-on-error: false
-        
